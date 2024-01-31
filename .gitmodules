@@ -16,3 +16,6 @@
 [submodule "service-discovery"]
 	path = service-discovery
 	url = https://github.com/shalindasuresh/service-discovery
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/shalindasuresh/api-gateway
