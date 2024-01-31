@@ -10,3 +10,6 @@
 [submodule "grocery-product-service"]
 	path = grocery-product-service
 	url = https://github.com/shalindasuresh/grocery-product-service
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/shalindasuresh/grocery-product-service
