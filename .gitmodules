@@ -13,3 +13,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/shalindasuresh/grocery-product-service
+[submodule "service-discovery"]
+	path = service-discovery
+	url = https://github.com/shalindasuresh/service-discovery
