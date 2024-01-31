@@ -1,0 +1,9 @@
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/shalindasuresh/grocery-order-service
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/shalindasuresh/grocery-customer-service
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/shalindasuresh/grocery-config-server
