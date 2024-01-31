@@ -7,3 +7,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/shalindasuresh/grocery-config-server
+[submodule "grocery-product-service"]
+	path = grocery-product-service
+	url = https://github.com/shalindasuresh/grocery-product-service
